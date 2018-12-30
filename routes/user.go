@@ -1,0 +1,6 @@
+package math
+
+func Total(a int, b int) int {
+   
+    return a + b;
+}
